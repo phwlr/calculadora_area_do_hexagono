@@ -11,5 +11,5 @@ void main(){
 
     double area = 3 * lado * lado * raiz_de_tres / 2;
 
-    printf("a area do seu hexagono é: %g\n", area);
+    printf("a area do seu hexagono é: %g u.a\n", area);
 }
